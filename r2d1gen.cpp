@@ -636,6 +636,5 @@ int main(int argc, char *argv[])
         #endif
         return 0;
 }
-
 /*                End of file : r2d1gen.cpp                */
 
